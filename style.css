@@ -1,0 +1,105 @@
+body{
+    border: solid;
+}
+h3{
+    font-family: fantasy;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2{
+    font-family: fantasy;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.me{
+    background-color: sandybrown;
+}
+h1{
+    font-family: fantasy;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.aboutus{
+    background-color: cyan;
+    font-size: large;
+    
+    font-weight: bold;
+    font-style: normal;
+    border: lightblue;
+    border-style: dotted;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.followus{
+    background-color: cyan;
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+    border: lightblue;
+    border-style: dotted;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.camel{
+    background-color: cyan;
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+    border: lightblue;
+    border-style: dotted;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.teddybear{
+    background-color: cyan;
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+    border: lightblue;
+    border-style: dotted;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.panda{ 
+    background-color: cyan;
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+    border: lightblue;
+    border-style: dotted;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.instagram{
+    background-color: salmon;
+    border: double;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.facebook{
+    background-color: salmon;
+    border: double;
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+
+.youtube{
+    background-color: salmon;
+    border: double;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+a:link{
+    
+        color: red;
+        padding: 20px;
+        margin: 40px;
+     
+}
+a:visited{
+    color:red;
+    
+}
